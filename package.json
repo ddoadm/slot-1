@@ -1,0 +1,23 @@
+{
+  "name": "pp-slot-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "currency-codes": "^2.1.0",
+    "material-icons": "^1.7.1",
+    "vue": "^2.6.10",
+    "vuesax": "3.12.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-service": "^3.0.1",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
