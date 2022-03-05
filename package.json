@@ -10,6 +10,7 @@
     "core-js": "^2.6.5",
     "currency-codes": "^2.1.0",
     "material-icons": "^1.7.1",
+    "url-loader": "^4.1.1",
     "vue": "^2.6.10",
     "vuesax": "3.12.2"
   },
