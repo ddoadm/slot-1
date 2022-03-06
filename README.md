@@ -16,3 +16,7 @@ yarn run serve
 ```
 yarn run build
 ```
+# live demo
+```
+https://slot.psyduck.me/
+```
