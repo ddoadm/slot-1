@@ -1,5 +1,7 @@
 # pp-slot-demo
-
+'''
+original repo : https://github.com/fesuy/slot
+'''
 ## Project setup
 ```
 yarn install
