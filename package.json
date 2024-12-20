@@ -11,14 +11,14 @@
     "currency-codes": "^2.1.0",
     "material-icons": "^1.7.1",
     "url-loader": "^4.1.1",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vuesax": "3.12.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "sass-loader": "^8.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.7.16"
   }
 }
